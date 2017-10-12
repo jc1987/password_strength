@@ -1,13 +1,17 @@
-** INSTALL **
+## INSTALL 
 
+```javascript
 npm install
+```
 
 
-** USE ** 
+## USE  
 
 needs password.csv
 
+```javascript
 node process.js
+```
 
 writes into 
 
