@@ -1,9 +1,9 @@
-**INSTALL 
+** INSTALL **
 
 npm install
 
 
-**USE 
+** USE ** 
 
 needs password.csv
 
